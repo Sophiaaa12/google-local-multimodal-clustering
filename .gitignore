@@ -1,5 +1,6 @@
 data/raw/*
 data/processed/*
+data/processed/sample_images/
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 results/figures/*
